@@ -1,0 +1,1 @@
+this is the base for my android apps. fork from this one
